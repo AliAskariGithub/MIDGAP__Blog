@@ -23,7 +23,7 @@ export default function Home() {
         </Link>
         <Link href={"/blog"}>
           <button className="uppercase text-sm bg-gradient-2">
-            View Blog
+            View Blogs
           </button>
         </Link>
         </div>
